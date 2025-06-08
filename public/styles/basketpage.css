@@ -1,0 +1,7 @@
+.main-bskt{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:100%;
+    min-height: 34rem;
+}

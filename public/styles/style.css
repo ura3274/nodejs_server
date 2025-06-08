@@ -1,0 +1,22 @@
+@import url("container.css");
+@import url("cart.css");
+@import url("startpage.css");
+@import url("leftside.css");
+@import url("cartbasket.css");
+@import url("productpage.css");
+@import url("basketpage.css");
+@import url("productlist.css");
+@import url("startpagebtm.css");
+
+body{
+  box-sizing: border-box;
+  margin: 0;
+  background: url(../images/9991.png)top center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+}
+
+  

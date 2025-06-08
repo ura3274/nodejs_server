@@ -1,0 +1,65 @@
+.startpage{
+    display: inline-block;
+    width: 75%;
+}
+
+.spview{
+    width: 100%;
+}
+
+.sp-minicart-outerdiv{
+    box-sizing: border-box;
+    display: block;
+    overflow: hidden;
+    border:1px solid black;
+    border-radius: 15px;
+}
+
+.sp-minicart-innerdiv{
+    box-sizing: border-box;
+    background-color: white;
+    
+    text-align: left;
+    transform: translate(0px, 0px);
+    transition-property: transform;
+    transition-duration: 800ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.sp-minicart{
+    display: inline-block;
+    width:15rem;
+    margin: 10px;
+    text-align: center;
+}
+
+.sp-minicart img{
+    width: 5rem;
+    
+}
+
+.sp-cart-outerdiv{
+    box-sizing: border-box;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+.sp-cart-innerdiv{
+    box-sizing: border-box;
+    
+    display:block;
+    text-align: left;
+    transform: translate(0px, 0px);
+    transition-property: transform;
+    transition-duration: 200ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.sp-btn{
+    cursor: pointer;
+    font-size: large;
+}

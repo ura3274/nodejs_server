@@ -1,0 +1,10 @@
+.banner{
+    text-align: center;
+}
+
+.banner div{
+    display: inline-block;
+    
+    width:25%;
+    vertical-align: top;
+}

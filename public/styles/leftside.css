@@ -1,0 +1,12 @@
+.leftside{
+    display:inline-block;
+    text-align: left;
+    vertical-align: top;
+    width:20%;
+    height:100%;
+}
+
+.leftside li a{
+    cursor: pointer;
+    text-decoration: none;
+}
